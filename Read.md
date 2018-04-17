@@ -1,1 +1,3 @@
-Q-A-System Readme
+Q-A-System
+
+Smart Question Answer System. 
